@@ -3,15 +3,15 @@
   *  ติดตั้ง scoop.sh
 
   * ติดตั้ง  github-cli
-    scoop install git
-    #scoop install add main
-    scoop install gh
+       scoop install git
+       #scoop install add main
+       scoop install gh
   * สร้างสภาแวดล้อม
-      pyhon -m venv venv
-      venv\Scripts\activate
+       pyhon -m venv venv
+       venv\Scripts\activate
 
   * ติดตั้ง package
-      install django
+       install django
 ## 14/11/2566
 การเข้าใข่งาน github
   - gh auth login
