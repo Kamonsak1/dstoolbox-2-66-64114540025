@@ -27,3 +27,7 @@ private project for ds toolbox class.
 
 * เว็บเขียน markdown
   - [การเขียนบน githum](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+ * การ
+   - pip install pre-commit
+   - pip install cookiecutter
+   - cookiecutter gh:cookiecutter/cookiecutter-django
