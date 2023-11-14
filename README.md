@@ -18,7 +18,7 @@ private project for ds toolbox class.
   
     pip install django
   ##14/11/2566
-  การเข้าใช้งาน github
-
-gh auth login
-gh repo clone wichit2s/dstoolbox-2-66
+  
+  *การเข้าใช้งาน github
+    gh auth login
+    gh repo clone wichit2s/dstoolbox-2-66
