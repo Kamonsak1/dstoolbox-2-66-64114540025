@@ -22,5 +22,5 @@ private project for ds toolbox class.
 
  *การเข้าใช้งาน github
  
- gh auth login
- gh repo clone wichit2s/dstoolbox-2-66
+ - gh auth login
+ - gh repo clone wichit2s/dstoolbox-2-66
