@@ -3,7 +3,7 @@
   # install scoop.sh
     scoop install git
     #scoop install add main
-      scoop install gh
+    scoop install gh
 ## 14/11/2566
 การเข้าใข่งาน github
   - gh auth login
