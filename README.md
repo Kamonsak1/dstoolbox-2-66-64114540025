@@ -117,9 +117,10 @@ __##07/11/2566__
   
 ##21/11/2566
   *git
+  
     -git config get user.name ดูชื่อผู้ใช้
-    *git config --global pull.rebase
+    -git config --global pull.rebase
     -git config --global pull.rebase false
-    *git config --global pull.ff  
+    -git config --global pull.ff  
     -git config --global pull.ff  only
     -git merge
